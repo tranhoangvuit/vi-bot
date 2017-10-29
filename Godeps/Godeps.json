@@ -1,0 +1,22 @@
+{
+	"ImportPath": "vibot",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/kardianos/osext",
+			"Rev": "c2c54e542fb797ad986b31721e1baedf214ca413"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "d1e1b351919c6738fdeb9893d5c998b161464f0c"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "d1e1b351919c6738fdeb9893d5c998b161464f0c"
+		}
+	]
+}
